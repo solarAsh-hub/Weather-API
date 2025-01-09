@@ -1,7 +1,7 @@
 Weather Dashboard
 
 Building a weather data collection system using AWS S3 and OpenWeather API
-<a href="https://github.com/solarAsh-Hub/Weather-API/Test">Test</a>
+<a href="https://github.com/solarAsh-hub/Weather-API/blob/main/Test">Test</a>
 
 
 # Weather Data Collection System
